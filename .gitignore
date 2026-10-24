@@ -1,0 +1,14 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+.idea/
+*.iml
+# adb 拉下來的截圖
+*.png
+!app/src/**/*.png
+
+# Claude Code 相關檔案只留在本機
+CLAUDE.md
+CLAUDE.local.md
+.claude/

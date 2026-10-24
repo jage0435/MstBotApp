@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">彈珠自動拖曳</string>
+    <string name="a11y_label">彈珠自動拖曳 自動操作</string>
+    <string name="a11y_desc">用來模擬從螢幕中心拖曳，並截取畫面判斷關卡是否結束（畫面上方出現「OK」）。只在你按下開始後運作，截圖只在手機上辨識，不會收集或上傳任何資料。</string>
+</resources>
